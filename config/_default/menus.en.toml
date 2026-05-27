@@ -45,3 +45,8 @@
   name = "Notes"
   pageRef = "notes"
   weight = 20
+
+  [[main]]
+  name = "CV"
+  url = "/pdfs/CV.pdf"
+  weight = 10
