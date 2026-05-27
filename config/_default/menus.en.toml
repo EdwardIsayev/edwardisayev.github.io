@@ -42,6 +42,6 @@
 #   weight = 20
 
 [[main]]
-  name = "Expository Notes"
+  name = "Notes"
   pageRef = "notes"
   weight = 20
