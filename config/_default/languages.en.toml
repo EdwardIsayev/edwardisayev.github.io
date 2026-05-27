@@ -15,7 +15,7 @@ title = "Edward Isayev"
 
 [params.author]
   name = "Edward Isayev"
-  image = "img/profile.jpg"
+  image = ""
   headline = "Ph.D Student at Boston College"
   bio = "Ph.D Student at Boston College"
   # links = [
