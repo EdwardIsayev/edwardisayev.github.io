@@ -8,5 +8,5 @@ Here you can find some notes from various classes I've taken over the years, as 
 ---
 
 ### Expository Notes
-* [**Gromov Witten Theory**](Forthcoming) - Notes from a Spring 2026 course taught by Qile Chen.
-* [**Orbifold Cohomology**](Forthcoming) - Notes from my attempts to learn Chen-Ruan cohomology. Filled with examples, especially various weighted projective spaces
+* **Gromov Witten Theory**(Forthcoming) - Notes from a Spring 2026 course taught by Qile Chen.
+* **Orbifold Cohomology**(Forthcoming) - Notes from my attempts to learn Chen-Ruan cohomology. Filled with examples, especially various weighted projective spaces
