@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "Blowfish"
+title = "Edward Isayev"
 
 [params]
   displayName = "EN"
@@ -14,12 +14,12 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
 
 [params.author]
-  name = "Your name here"
-  image = "img/blowfish_logo.png"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  name = "Edward Isayev"
+  image = "img/profile.jpg"
+  headline = "Ph.D Student at Boston College"
+  bio = "Ph.D Student at Boston College"
   # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+  #   { email = "mailto:isayev@bc.edu" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
