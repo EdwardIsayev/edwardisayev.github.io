@@ -61,6 +61,7 @@ enableCodeCopy = true
   showWordCount = true
   showSummary = true
   
+customCSS = ["css/custom.css"]
 [list]
   showBreadcrumbs = false
   showSummary = true
