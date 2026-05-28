@@ -17,6 +17,7 @@ enableCodeCopy = true
 
 [header]
   layout = "basic" # valid options: basic, fixed
+  logo = "img/header-icon.png"
 
 [footer]
  # showMenu = true
