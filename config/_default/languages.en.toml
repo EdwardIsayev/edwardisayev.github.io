@@ -16,8 +16,8 @@ title = "Edward Isayev"
 [params.author]
   name = "Edward Isayev"
   image = "img/profile.jpg"
-  headline = "Ph.D Student at Boston College"
-  bio = "Ph.D Student at Boston College"
+  headline = "PhD Student at Boston College"
+  bio = "PhD Student at Boston College"
   # links = [
   #   { email = "mailto:isayev@bc.edu" },
   #   { link = "https://link-to-some-website.com/" },
