@@ -1,4 +1,4 @@
-header img, .logo img {
+#site-header img {
     max-height: 20px !important; 
     width: auto !important;
 }
