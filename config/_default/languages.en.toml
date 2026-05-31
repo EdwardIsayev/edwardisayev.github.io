@@ -9,8 +9,8 @@ title = "Edward Isayev"
   isoCode = "en"
   rtl = false
   logo = "img/logo.png"
-  description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  description = "Personal website of Edward Isayev, PhD student and mathematician, including his research appers and expository mathematics notes"
+  # copyright = "Edward Isayev"
   dateFormat = "2 January 2006"
 
 [params.author]
