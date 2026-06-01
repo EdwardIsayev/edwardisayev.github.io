@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Notes on Edward Isayev</title>
+    <link>//localhost:1313/courses/</link>
+    <description>Recent content in Course Notes on Edward Isayev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Edward Isayev</copyright>
+    <atom:link href="//localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gromov-Witten Theory</title>
+      <link>//localhost:1313/courses/gw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/courses/gw/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Notes pdf&lt;/strong&gt; (Forthcoming)&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

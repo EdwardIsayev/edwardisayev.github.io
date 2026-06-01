@@ -10,12 +10,22 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Gromov-Witten Theory</title>
+      <link>//localhost:1313/courses/gw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/courses/gw/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Notes pdf&lt;/strong&gt; (Forthcoming)&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Notes</title>
       <link>//localhost:1313/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/notes/</guid>
-      <description>&lt;p&gt;Here you can find some notes from various classes I&amp;rsquo;ve taken over the years, as well as some more expository notes on areas related to my thesis. Any mistakes made herein are entirely my own, and corrections would be greatly appreciated to my &lt;a href=&#34;mailto:isayev@bc.edu?subject=Notes%20Correction&#34; &gt;email&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Expository Notes&#xA;    &lt;div id=&#34;expository-notes&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#expository-notes&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gromov Witten Theory&lt;/strong&gt; (Forthcoming) - Notes from a Spring 2026 course taught by Qile Chen. Topics include the fundamentals of \(\overline{\mathcal{M}}_{g,n}\), the string, dilaton and divisor equations, Frobenius manifolds, the Topological Recursion Relation, and Givental&amp;rsquo;s J-function.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orbifold Cohomology&lt;/strong&gt; (Forthcoming) - Notes from my attempts to learn Chen-Ruan cohomology. Filled with examples, especially various weighted projective spaces. These notes also explore the combinatorial description of Chen-Ruan Cohomology, in the sense of &lt;a href=&#34;https://arxiv.org/abs/1410.0024&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Coates-Iritani-Jiang&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Here you can find some expository notes on areas related to my thesis, which will eventually include toric geometry, orbifold cohomology, log geometry and more. They are informal, and have as a default example weighted projective space. Any mistakes made herein are entirely my own, and corrections would be greatly appreciated to my &lt;a href=&#34;mailto:isayev@bc.edu?subject=Notes%20Correction&#34; &gt;email&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Orbifold Cohomology (Forthcoming)&#xA;    &lt;div id=&#34;orbifold-cohomology-forthcoming&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#orbifold-cohomology-forthcoming&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Notes from my attempts to learn Chen-Ruan cohomology. Filled with examples, especially various weighted projective spaces. These notes also explore the combinatorial description of Chen-Ruan Cohomology, in the sense of &lt;a href=&#34;https://arxiv.org/abs/1410.0024&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Coates-Iritani-Jiang&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     

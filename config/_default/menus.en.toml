@@ -42,9 +42,14 @@
 #   weight = 20
 
 [[main]]
-  name = "Notes"
-  pageRef = "notes"
+  name = "Expository Notes"
+  pageRef = "/notes"
   weight = 20
+
+[[main]]
+  name = "Courses"
+  pageRef = "/courses"
+  weight = 30
 
   [[main]]
   name = "CV"
