@@ -6,7 +6,7 @@ description: "Seminar and reading-group talks given by Edward Isayev."
 
 A list of seminar and reading-group talks I've given. The accompanying handwritten lecture notes are available upon request. 
 
-(GIST)[https://sites.google.com/view/bcgistseminar] (Getting Into Some Theorems) is BC's graduate student seminar.
+[GIST](https://sites.google.com/view/bcgistseminar) (Getting Into Some Theorems) is BC's graduate student seminar.
 
 ---
 
